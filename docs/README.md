@@ -95,6 +95,8 @@ These attributes are intended for quick manual testing and the GUI/CLI also rely
 
 ````
 
+Links
 
-
+https://drive.google.com/file/d/1iqjJtH8jVhhCRsxPcm2JqCtgUdwEfDi6/view?usp=sharing (video)
+https://github.com/PyCharmGuy123/simtemp (github)
 
