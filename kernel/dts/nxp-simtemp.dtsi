@@ -1,0 +1,10 @@
+/dts-v1/;
+
+/nexus/ {
+    simtemp0: simtemp@0 {
+        compatible = "nxp,simtemp";
+        sampling-ms = <100>;
+        threshold-mC = <45000>;
+        status = "okay";
+    };
+};
