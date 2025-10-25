@@ -19,7 +19,7 @@ Build and test load/unload on the host kernel.
 
 ```bash
 # Build the module (using distro kernel build dir)
-./scripts/qemu_build_module.sh --kdir /lib/modules/$(uname -r)/build
+./scripts/build.sh
 
 # Insert the module (as root)
 sudo insmod kernel/nxp_simtemp.ko
